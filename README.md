@@ -1,10 +1,10 @@
 ###Libraries
 
--Firebase
+- Firebase
 
--React font awesome
+- React font awesome
 
--Bootstrap cdn
+- Bootstrap cdn
 
 - scss
 
